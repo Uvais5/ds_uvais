@@ -48,6 +48,6 @@ This project focuses on:
 
 ## **📬 Contact**
 For any queries, feel free to reach out:  
-- **Name:** `<Your Name>`  
-- **Email:** `<Your Email>`  
-- **LinkedIn:** `<Your LinkedIn Profile>`  
+- **Name:** `Uvais`  
+- **Email:** `uvaissaifi523@gmail.com`  
+- **LinkedIn:** `https://www.linkedin.com/in/uvais-saifi-187150236/`  
