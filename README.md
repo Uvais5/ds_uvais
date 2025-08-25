@@ -8,8 +8,8 @@ The project analyzes the relationship between **trader behavior** and **market s
 ## **📂 Repository Structure**
 
 ```bash
-ds_<your_name>/
-├── notebook_1.ipynb       # Main analysis notebook
+ds_uvais/
+├── Smarter trading  strategies.ipynb       # Main analysis notebook
 ├── csv_files/             # Processed & intermediate CSV files
 │   └── ...
 ├── outputs/               # Visualizations & charts (.png, .jpg)
